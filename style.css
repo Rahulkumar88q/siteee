@@ -1,0 +1,127 @@
+*{
+    margin:0;padding: 0;box-sizing: border-box;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+body p{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.header{
+   background-image: url(images/music\ site.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%; height: 80vh;
+}
+.name{
+    text-align: center; color: aliceblue;padding-top:100px;
+}
+.btn1{
+    color: black;
+    background:green;
+    font-weight: bold;
+}
+.btn1:hover{
+    color: blue;
+    background: red;
+}
+.btn2{
+    color: black;
+    background:yellow;
+    font-weight: bold;
+}
+.btn2:hover{
+    color: blue;
+    background: red;
+}
+.about{
+    text-align: center;
+    padding-top: 20px;
+}
+.our-services{
+text-align: center;
+padding-top: 20px;
+}
+.second{
+background-image:url(images/services.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%; height: 80vh;
+
+}
+.contact{
+    text-align: center;
+    padding-top: 20px;
+}
+.third{
+    background-image: url(images/melinda-gimpel-5Ne6mMQtIdo-unsplash.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+width: 100%; height: 80vh;
+}
+
+.form{
+    color:#ffffff;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.form img{
+    border-radius: 100px;
+}
+.refresh{
+    color: black;
+    background:green;
+    font-weight: bold; 
+}
+.send{
+    color: black;
+    background:yellow;
+    font-weight: bold; 
+}
+
+.refresh:hover{
+    color: blue;
+    background: red;
+}
+.send:hover{
+    color: blue;
+    background: red;
+}
+
+
+.ft {
+    margin-top: 20px;
+}
+.ft p{
+font-family: 'Courier New', Courier, monospace;
+}
+
+.row{
+    justify-content: center;
+    padding-top: 120px;
+}
+
+
+
+#player{
+padding-left: 100px;
+padding-top:50px ;
+    
+}
+.second h3{
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
